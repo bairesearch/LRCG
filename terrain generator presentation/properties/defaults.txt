@@ -1,0 +1,6 @@
+defaults
+
+Raised value is 18 (ie height of map is 18, difference is 8)
+	Height is 18 (ie height of map is 18 "MAXIMUM_HEIGHT_OF_MAP", difference between that and sea/base plate level is 8 "BASEPLATE_OR_SEA_LEVEL_HEIGHT_NEGATIVE")
+PROBABILITY_OF_LARGEPINE 0.25
+PROBABILITY_OF_PLANTING 0.99
